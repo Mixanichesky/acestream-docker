@@ -37,7 +37,8 @@ http://localhost:8000/pid/acestreamid/stream.mp4
 ## Build your own docker image
 
 ```
-git clone https://github.com/rusanter/acestream-docker.git
+#git clone https://github.com/rusanter/acestream-docker.git
+git clone https://github.com/Mixanichesky/acestream-docker.git
 cd acestream-docker
 docker build -t acestream-proxy .
 ```
